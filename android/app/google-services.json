@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "207138036977",
+    "project_id": "jobaajtask",
+    "storage_bucket": "jobaajtask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207138036977:android:5883d1e622a20e68221d50",
+        "android_client_info": {
+          "package_name": "com.comapy.job1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbM_tdVdbMog6paX9C9qEfP5aRradNlyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207138036977:android:12f844a088fa7f8b221d50",
+        "android_client_info": {
+          "package_name": "com.example.first_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbM_tdVdbMog6paX9C9qEfP5aRradNlyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207138036977:android:5bf4eeacede40de0221d50",
+        "android_client_info": {
+          "package_name": "com.example.jobaajtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbM_tdVdbMog6paX9C9qEfP5aRradNlyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
